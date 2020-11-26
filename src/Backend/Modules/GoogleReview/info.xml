@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>GoogleReview</name>
+  <version>1.0.0</version>
+  <requirements>
+    <minimum_version>5.0.0</minimum_version>
+  </requirements>
+  <description>
+    <![CDATA[
+      Add GoogleReview widgets to your website.
+    ]]>
+  </description>
+  <authors>
+    <author>
+      <name><![CDATA[Jacob van Dam ICt]]></name>
+      <url><![CDATA[https://wwww.jvdict.nl]]></url>
+    </author>
+  </authors>
+</module>

@@ -1,0 +1,7 @@
+services:
+    Backend\Modules\GoogleReview\Command\UpdateScore:
+        tags:
+            - { name: 'console.command', command: 'google-review:update-score' }
+        arguments:
+            - "@logger"
+            - "@fork.settings"

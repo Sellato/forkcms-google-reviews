@@ -1,0 +1,3 @@
+{% if score and reviewCount %}
+  <p class="reviews-score text-white">{{ 'lbl.CustomerScore'|trans|ucfirst }}: {{ score }} - {{ reviewCount }} {{ 'lbl.Reviews'|trans }}</p>
+{% endif %}

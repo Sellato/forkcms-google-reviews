@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+  <Backend>
+    <GoogleReview>
+      <item type="label" name="PlaceId">
+        <translation language="nl"><![CDATA[plaats ID]]></translation>
+        <translation language="en"><![CDATA[place ID]]></translation>
+      </item>
+      <item type="label" name="ApiKey">
+        <translation language="nl"><![CDATA[api key]]></translation>
+        <translation language="en"><![CDATA[api key]]></translation>
+      </item>
+      <item type="label" name="UpdateScore">
+        <translation language="nl"><![CDATA[score bijwerken]]></translation>
+        <translation language="en"><![CDATA[update score]]></translation>
+      </item>
+      <item type="message" name="ScoreUpdated">
+        <translation language="nl"><![CDATA[Score bijgewerkt]]></translation>
+        <translation language="en"><![CDATA[Score updated]]></translation>
+      </item>
+    </GoogleReview>
+    <Core>
+      <item type="label" name="GoogleReview">
+        <translation language="nl"><![CDATA[Google Review]]></translation>
+        <translation language="en"><![CDATA[Google Review]]></translation>
+      </item>
+      <item type="label" name="ReviewsScore">
+        <translation language="nl"><![CDATA[reviews score]]></translation>
+        <translation language="en"><![CDATA[reviews score]]></translation>
+      </item>
+    </Core>
+  </Backend>
+  <Frontend>
+    <Core>
+      <item type="label" name="CustomerScore">
+        <translation language="nl"><![CDATA[klantbeoordeling]]></translation>
+        <translation language="en"><![CDATA[customer score]]></translation>
+      </item>
+      <item type="label" name="Reviews">
+        <translation language="nl"><![CDATA[reviews]]></translation>
+        <translation language="en"><![CDATA[reviews]]></translation>
+      </item>
+    </Core>
+  </Frontend>
+</locale>
